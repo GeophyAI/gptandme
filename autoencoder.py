@@ -3,7 +3,7 @@
 #  * @email shaowinw@geophyai.com
 #  * @create date 2023-04-29 17:34:55
 #  * @modify date 2023-04-29 17:34:55
-#  * @desc [Autoencoder for denoising]
+#  * @desc [Autoencoder for denoising <supervised>]
 #  */
 
 import torch
